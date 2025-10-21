@@ -1,0 +1,58 @@
+{
+  "workbench.colorTheme": "Just Black",
+  "editor.fontSize": 18,
+  "workbench.iconTheme": "material-icon-theme",
+  "debug.console.fontSize": 16,
+  "terminal.integrated.fontLigatures": true,
+  "terminal.integrated.fontFamily": "'Monaco'",
+  "editor.fontFamily": "'Victor Mono', 'Courier New', monospace",
+  "workbench.sideBar.location": "right",
+  "editor.fontVariations": false,
+  "terminal.integrated.fontSize": 16,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "sonarlint.connectedMode.connections.sonarqube": [
+    {
+      "serverUrl": "https://sonar.prod.walmartlabs.com",
+      "connectionId": "https-sonar-prod-walmartlabs-com"
+    },
+    {
+      "serverUrl": "https://sonar.looper.prod.walmartlabs.com",
+      "connectionId": "https-sonar-looper-prod-walmartlabs-com"
+    }
+  ],
+  "jest.outputConfig": "",
+  "chat.editing.alwaysSaveWithGeneratedChanges": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "chat.agent.enabled": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jest.runMode": {
+    "type": "on-save",
+    "testFileOnly": true,
+    "coverage": false
+  },
+  "redhat.telemetry.enabled": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.defaultColorDecorators": "never",
+    "gitlens.codeLens.symbolScopes": [
+      "!Module"
+    ]
+  },
+  "svelte.enable-ts-plugin": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+}
