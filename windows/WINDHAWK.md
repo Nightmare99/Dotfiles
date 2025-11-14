@@ -2,7 +2,7 @@
 
 ## Prereqs:
 - Windows 11
-- Windhawk
+- [Windhawk](https://windhawk.net/)
 
 ## windows-11-taskbar-styler
 ```json
@@ -66,5 +66,21 @@
   "hideSpeedup": 250,
   "frameRate": 240,
   "oldTaskbarOnWin11": 0
+}
+```
+
+## taskbar-tray-system-icon-tweaks
+```json
+{
+  "hideVolumeIcon": 0,
+  "hideNetworkIcon": 0,
+  "hideBatteryIcon": 0,
+  "hideMicrophoneIcon": 1,
+  "hideGeolocationIcon": 0,
+  "hideStudioEffectsIcon": 0,
+  "hideLanguageBar": 1,
+  "hideLanguageSupplementaryIcons": 0,
+  "hideBellIcon": "whenInactiveAndNoDnd",
+  "showDesktopButtonWidth": 12
 }
 ```
