@@ -84,3 +84,39 @@
   "showDesktopButtonWidth": 12
 }
 ```
+
+## [WinDock](https://github.com/DarkionAvey/windhawk-taskbar-centered-condensed)
+```json
+{
+	"TaskbarHeight": 56,
+	"TaskbarIconSize": 24,
+	"TaskbarButtonSize": 52,
+	"TaskbarOffsetY": 8,
+	"TrayTaskGap": 8,
+	"TaskbarBackgroundHorizontalPadding": 0,
+	"FullWidthTaskbarBackground": 0,
+	"IgnoreShowDesktopButton": 0,
+	"TaskbarCornerRadius": 8,
+	"TaskButtonCornerRadius": 4,
+	"FlatTaskbarBottomCorners": 0,
+	"CustomizeTaskbarBackground": 1,
+	"TaskbarBackgroundOpacity": 100,
+	"TaskbarBackgroundTint": 0,
+	"TaskbarBackgroundLuminosity": 50,
+	"TaskbarBorderOpacity": 5,
+	"TaskbarBorderColorHex": "#ffffff",
+	"TaskbarBorderThickness": 8,
+	"AppsDividerThickness": 8,
+	"AppsDividerVerticalScale": 40,
+	"AppsDividerAlignment": "left",
+	"DividedAppNames": "File Explorer",
+	"TrayAreaDivider": 1,
+	"StyleTrayArea": 1,
+	"TrayIconSize": 16,
+	"TrayButtonSize": 30,
+	"MoveFlyoutStartMenu": 1,
+	"MoveFlyoutControlCenter": 1,
+	"MoveFlyoutNotificationCenter": 0,
+	"AlignFlyoutInner": 1
+}
+```
